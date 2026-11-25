@@ -1,5 +1,7 @@
 # Manual Test Artifacts & Real Bug Report Portfolio
 
+[Manual test cases](MANUAL-TEST-CASES.md) · [Seeded defect reports](SEEDED-DEFECTS.md)
+
 ## Test plan
 
 **Application:** Fieldwork Supply, local practice build  
